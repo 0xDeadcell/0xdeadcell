@@ -2,8 +2,6 @@
 
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdeadcell&hide_progress=true&langs_count=12)](https://github.com/0xdeadcell/github-readme-stats)
-
 ---
 [![](https://komarev.com/ghpvc/?username=0xdeadcell&style=for-the-badge)](https://kaladin.dev)  
 
