@@ -1,6 +1,5 @@
-[![](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello!;Welcome+to+my+profile!;Check+out+my+repo+;Look+at+my+stats+below+%F0%9F%91%87+)](https://kaladin.dev)  
+[![](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=26&pause=1000&color=7272DC&width=435&lines=Programmer;App+Developer;Reverse+Engineer;Malware+Analyst;Threat+Hunter)](https://kaladin.dev)  
 
----
 
 ---
 [![](https://komarev.com/ghpvc/?username=0xdeadcell&style=for-the-badge)](https://kaladin.dev)  
